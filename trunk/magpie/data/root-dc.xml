@@ -1,0 +1,22 @@
+<DIDL-Lite xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/">
+<container id="2" parentID="0" restricted="1" childCount="1">
+<dc:title>Audio</dc:title>
+<upnp:class>object.container</upnp:class>
+</container>
+<container id="1" parentID="0" restricted="1" childCount="1">
+<dc:title>PC Directory</dc:title>
+<upnp:class>object.container</upnp:class>
+</container>
+<container id="3" parentID="0" restricted="1" childCount="1">
+<dc:title>Photos</dc:title>
+<upnp:class>object.container</upnp:class>
+</container>
+<container id="4" parentID="0" restricted="1" childCount="1">
+<dc:title>Playlists</dc:title>
+<upnp:class>object.container</upnp:class>
+</container>
+<container id="5" parentID="0" restricted="1" childCount="1">
+<dc:title>Video</dc:title>
+<upnp:class>object.container</upnp:class>
+</container>
+</DIDL-Lite>
