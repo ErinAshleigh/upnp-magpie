@@ -1,0 +1,1 @@
+This is the client application that allows gathering and submitting data to the upnp-database.info server.
